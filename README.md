@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Retardur
+- 👋 Hi, I’m Jakob Holkestad Molnes
 - 👀 I’m interested in: Coding
 - 🌱 I’m currently learning: Java. Python and Javascript
 - 💞️ I’m looking to collaborate on: nothing
